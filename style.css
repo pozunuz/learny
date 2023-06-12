@@ -1,0 +1,86 @@
+<style>
+   body{ background-color: white; 
+              height: 2300px; 
+        font-family: Arial;     }
+
+   #main{ background-color: #ebebeb ;  
+         
+            margin-top: 85px; 
+                display: flex;  
+              flex-direction :  column; 
+               align-items : center;
+             width: 1335px;
+             height: 2280px;
+
+              }        
+   #title{   
+               margin-top: 17px;
+            width: 605px;
+             height: 100px;
+            text-align: center;
+         }
+
+  #title h1{ font-size: 40px;     
+               margin-top: 45px;                        }
+  #title p { font-size: 15px;                   }
+
+   #img-div {   background-color: white; 
+                display: flex;                  
+                 flex-direction :  column; 
+                  align-items : center;
+                 width: 1305px;
+                  height: 685px;
+                    margin-top: 55px;   }
+                                                   
+      #image {  background-color: white; 
+                display: flex;                  
+                 flex-direction :  column; 
+                  align-items : center;
+                 width: 1305px;
+                margin-top: 7px; 
+                  height: 675px;     }
+
+   #img-caption { font-size: 16px 
+               background-color: pink;                        }
+
+     #tribute-info {     
+                       width: 705px;   
+                        height: 50px; 
+                       font-weight:700;       
+                      margin-top: 35px; 
+                       text-align: center;
+                        font-size: 18px; 
+                                             }
+
+      #mainlist {   margin-top: 25px;  
+                      line-height: 150%;       
+                     
+                  width: 570px;
+                 height: 900px;  
+                     font-size:15px; 
+  } 
+                
+   #mainlist li{
+                     padding-bottom: 16px; } 
+                 
+    
+    #mainnotedwn{ margin-top: 180px;   
+                        font-weight:italic; 
+                         width: 520px;
+                          height: 150px;  
+                        line-height: 150%;
+                       
+                } 
+
+  
+   #tribute-link{ width: 1005px;   
+                        height: 50px; 
+                       font-weight: 790;       
+                      margin-top: 10px; 
+                       text-align: center;
+                        font-size: 18px; 
+                                        
+                    } 
+                 
+
+</style>
