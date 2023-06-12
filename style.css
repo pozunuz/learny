@@ -1,9 +1,9 @@
 <style>
-   body{ background-color: white; 
+   body{ background-color: rgb(41, 33, 33); 
               height: 2300px; 
         font-family: Arial;     }
 
-   #main{ background-color: #ebebeb ;  
+   #main{ background-color: rgb(26, 14, 14) ;  
          
             margin-top: 85px; 
                 display: flex;  
